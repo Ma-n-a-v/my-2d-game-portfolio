@@ -11,11 +11,11 @@ export const dialogueData = {
   tv: `That's my TV. Recently, I've been fascinated by the captivating science explorations of Veritasium, where Derek Muller dives into mind-bending topics and uncovers the mysteries of the natural world. 
   It's like having a scientific adventure right in my living room! `,
   bed: `This where I sleep. Great ideas comes when I'm lying on my bed. When an idea strikes, I often have to write it down or else I won't be able to sleep because my mental energy is consumed by it.`,
-  resume: `This is my desk and on it is my resume. <a href="" target="_blank">Check it out?</a>
+  resume: `This is my desk and on it is my resume. <a href="https://drive.google.com/file/d/11vSEroFc4GxxAne6TUS3WZyoil67nY4x/view" target="_blank">Check it out?</a>
   Contact me at manupatel3345@gmail.com if you have any interesting job opportunities!`,
   projects: `Info about this portfolio : It's made with the Kaboom.js library which is a library for making games in JavaScript.
   Text is rendered with HTML/CSS. So the textbox you're currently reading is not rendered within canvas. Learn more about my projects
-  by checking out <a href="https://github.com/Ma-n-a-v" target="_blank">here</a>.`,
+  by checking out <a href="https://manavpatelportfolio.com/" target="_blank">here</a>.`,
   library: `There are stacks of programming books lining my shelves, including academic course materials and countless technical volumes. It's like a library in here, though I'll admit, I've probably only scratched the surface of what's inside. 
   Who else can relate to the allure of collecting programming wisdom without quite finishing the last chapter?`,
   exit: `If you want to exit Manav's portfolio, just close the tab.`,
